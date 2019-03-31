@@ -10,4 +10,4 @@ end
 
 moves = []
 
-display_board(a)
+display_board(moves)
