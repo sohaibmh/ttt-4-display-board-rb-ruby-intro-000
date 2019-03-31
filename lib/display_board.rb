@@ -16,6 +16,6 @@ end
 
 
 
-moves = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+moves = ["X", "O", " ", " ", "X", " ", " ", "O", " "]
 
 display_board(moves)
