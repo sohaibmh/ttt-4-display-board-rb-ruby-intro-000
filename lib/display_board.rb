@@ -8,6 +8,6 @@ def display_board(array)
   end
 end
 
-a = []
+moves = []
 
 display_board(a)
