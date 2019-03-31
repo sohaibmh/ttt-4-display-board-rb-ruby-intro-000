@@ -6,7 +6,7 @@ def display_board(array)
   puts "-----------"
   puts "   |   |   "
 else
-  puts "#{array[0]}  |#{array[1]}  |#{array[2]}  "
+  puts " #{array[0]} | #{array[1]} | #{array[2]} "
   puts "-----------"
   puts " #{array[3]}  | #{array[4]}  | #{array[5]}  "
   puts "-----------"
@@ -16,6 +16,6 @@ end
 
 
 
-moves = ["X", " ", " ", "   ", "   ", "   ", "   ", "   ", "   "]
+moves = [" ", " ", " ", "   ", "   ", "   ", "   ", "   ", "   "]
 
 display_board(moves)
