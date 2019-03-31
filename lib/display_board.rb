@@ -1,6 +1,10 @@
 def display_board(array)
   if array.empty?
-    puts "hi"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
   end
 end
 
