@@ -8,12 +8,12 @@ def display_board(array)
   end
 end
 
-puts " #{array[1]}  | #{array[2]}  | #{array[3]}  "
+puts " #{array[0]}  | #{array[1]}  | #{array[2]}  "
 puts "-----------"
-puts " #{array[4]}  | #{array[5]}  | #{array[6]}  "
+puts " #{array[3]}  | #{array[4]}  | #{array[5]}  "
 puts "-----------"
-puts " #{array[7]}  | #{array[8]}  | #{array[9]}  "
+puts " #{array[6]}  | #{array[7]}  | #{array[8]}  "
 
-moves = ["X"]
+moves = [""]
 
 display_board(moves)
