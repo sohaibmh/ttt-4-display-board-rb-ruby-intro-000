@@ -1,5 +1,5 @@
 def display_board(array)
-  if array.empty? 
+  if array.empty?
     puts "hi"
   end
 end
