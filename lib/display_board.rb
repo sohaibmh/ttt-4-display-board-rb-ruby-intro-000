@@ -14,8 +14,6 @@ else
   end
 end
 
-
-
 moves = ["X", "O", " ", " ", "X", " ", " ", "O", " "]
 
 display_board(moves)
